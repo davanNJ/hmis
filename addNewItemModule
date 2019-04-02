@@ -8,4 +8,5 @@ $item=array(
 );
 foreach($item as $key=>$value){
   print {$key}:{$value};
+  print "This is our product";
 ?>
